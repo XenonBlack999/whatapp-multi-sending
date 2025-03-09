@@ -76,7 +76,7 @@ WhatsApp日发500条的5-7天成号细节，如封号过后按养号细节重复
 1.   打开网址：https://www.txttool.com/t/?id=NTc0
 URL ကိုဖွင့်ပါ- https://www.txttool.com/t/?id=NT
 
-
+![Screenshot 1](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image.png)
 
 2. 复制电话号码进去，生成vcf文件并下载vcf文件
 
