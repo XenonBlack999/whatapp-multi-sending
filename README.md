@@ -79,7 +79,7 @@ URL ကိုဖွင့်ပါ- https://www.txttool.com/t/?id=NT
 ![Screenshot 1](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image.png)
 
 2. 复制电话号码进去，生成vcf文件并下载vcf文件
-
+![Screenshot 2](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(3).png)
 
 
 3. 将下载的vcf文件发送到WS，或者其他的应用上，传输成功后手机操作
