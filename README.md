@@ -79,19 +79,18 @@ URL ကိုဖွင့်ပါ- https://www.txttool.com/t/?id=NT
 ![Screenshot 1](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image.png)
 
 2. 复制电话号码进去，生成vcf文件并下载vcf文件
+2. ဖုန်းနံပါတ်ကို ကူးယူပြီး vcf ဖိုင်ကို ဖန်တီးပြီး vcf ဖိုင်ကို ဒေါင်းလုဒ်လုပ်ပါ။
 ![Screenshot 2](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(3).png)
-
 
 3. 将下载的vcf文件发送到WS，或者其他的应用上，传输成功后手机操作
 ဒေါင်းလုဒ်လုပ်ထားသော vcf ဖိုင်ကို WS သို့မဟုတ် အခြားသော အပလီကေးရှင်းများသို့ လွှဲပြောင်းခြင်း အောင်မြင်ပြီးနောက်၊ မိုဘိုင်းလ်ဖုန်းသည် လည်ပတ်နေမည်ဖြစ်သည်။
-
-
+![Screenshot 3](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(4).png)
 
  4.手机上打开vcf文件，点击分享，拷贝到通讯录，添加全部联系人，点击新建，即可完成通讯录的导入。
 4. သင့်ဖုန်းပေါ်ရှိ vcf ဖိုင်ကိုဖွင့်ပါ၊ မျှဝေပါ ကိုနှိပ်ပါ၊ ၎င်းကို လိပ်စာစာအုပ်သို့ ကူးယူပါ၊ အဆက်အသွယ်အားလုံးကို ထည့်ပါ၊ အသစ်ကိုနှိပ်ပါ၊ ထို့နောက် လိပ်စာစာအုပ်ကို တင်သွင်းမှုကို အပြီးသတ်နိုင်ပါသည်။
-
-
-
+![Screenshot 4](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(5).png)
+![Screenshot 5](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(6).png)
+![Screenshot 6](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(7).png)
 
 
 
@@ -117,13 +116,13 @@ URL ကိုဖွင့်ပါ- https://www.txttool.com/t/?id=NT
  4. ပလပ်အင်ကို ဇစ်ဖွင့်ပါ။
  5. Google Chrome chrome://extensions/ (ဆော့ဖ်ဝဲအင်ဂျင်နီယာမုဒ်)
  
- 
+ ![Screenshot 7](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(8).png)
  
  
  打开之后点击    
 
 ဖွင့်ပြီးပါက နှိပ်ပါ။
-
+ ![Screenshot 8](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(9).png)
 
 
  解压进去点击拓展程序按钮，点击Rocket Sender群发插件
@@ -132,8 +131,8 @@ URL ကိုဖွင့်ပါ- https://www.txttool.com/t/?id=NT
 ၎င်းကို ဇစ်ဖွင့်ပြီး တိုးချဲ့ခလုတ်ကို နှိပ်ပါ၊ ထို့နောက် Rocket Sender အစုလိုက် စာတိုပေးပို့သူ ပလပ်အင်ကို နှိပ်ပါ။
 အဖွဲ့စာတိုပေးပို့ရန် WhatsApp ဝဘ်ဖောက်သည်အား ထည့်သွင်းပါ။
 
-
-
+ ![Screenshot 9](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(10).png)
+![Screenshot 10](https://github.com/XenonBlack999/whatapp-multi-sending/blob/main/image/Pasted%20image%20(11).png)
 
 
 
